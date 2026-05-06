@@ -1,0 +1,22 @@
+# Files created by various editors
+.vscode
+.*~
+*~
+*.sw?
+*.orig
+**/#*#
+.#*
+
+# AI coding assistants
+*.local.md
+.claude/
+.cursor/
+.windsurf/
+.copilot/
+.continue/
+.codeium/
+.tabnine/
+.gemini/
+.devin/
+.aider*
+
